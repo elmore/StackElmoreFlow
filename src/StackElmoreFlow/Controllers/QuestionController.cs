@@ -23,7 +23,7 @@ namespace StackElmoreFlow.Controllers
         {
             IList<Question> questions = _repository.GetQuestions();
 
-            return View("QuestionView", questions);
+            return View("QuestionView", questions[0]);
         }
 
     }

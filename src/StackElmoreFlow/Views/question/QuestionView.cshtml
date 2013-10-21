@@ -1,14 +1,14 @@
-﻿@model IEnumerable<StackElmoreFlow.Models.Question>
+﻿@model StackElmoreFlow.Models.Question
 
 @{
     ViewBag.Title = "QuestionView";
 }
 
-<h2>QuestionView</h2>
+<h2>@Model.Title</h2>
 
 
 <ul>
-@foreach (StackElmoreFlow.Models.Question q in Model) {
-    <li>@q.Title</li>
-}
+@*@foreach (StackElmoreFlow.Models.Answer a in Model.Answers) {
+    <li>@a.Body</li>
+}*@
 </ul>

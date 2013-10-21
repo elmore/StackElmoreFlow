@@ -6,6 +6,11 @@
       <generator class="native" />
     </id>
     <property name="Title" />
-    <property name="Body" />    
+    <property name="Body" />
+    
+    <set name="Answers" inverse="true" lazy="true" >
+      <key column="AnswerId"/>
+      <one-to-many class="Answer"/>
+    </set>
   </class>
 </hibernate-mapping>

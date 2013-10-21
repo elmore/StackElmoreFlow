@@ -7,7 +7,5 @@ C:\ssg\dev\StackElmoreFlow\StackElmoreFlow.Test\obj\Debug\StackElmoreFlow.Test.d
 C:\ssg\dev\StackElmoreFlow\StackElmoreFlow.Test\obj\Debug\StackElmoreFlow.Test.pdb
 C:\ssg\dev\StackElmoreFlow\src\StackElmoreFlow.Test\bin\Debug\StackElmoreFlow.Test.dll
 C:\ssg\dev\StackElmoreFlow\src\StackElmoreFlow.Test\bin\Debug\StackElmoreFlow.Test.pdb
-C:\ssg\dev\StackElmoreFlow\src\StackElmoreFlow.Test\bin\Debug\nunit.core.interfaces.dll
-C:\ssg\dev\StackElmoreFlow\src\StackElmoreFlow.Test\obj\Debug\StackElmoreFlow.Test.csprojResolveAssemblyReference.cache
 C:\ssg\dev\StackElmoreFlow\src\StackElmoreFlow.Test\obj\Debug\StackElmoreFlow.Test.dll
 C:\ssg\dev\StackElmoreFlow\src\StackElmoreFlow.Test\obj\Debug\StackElmoreFlow.Test.pdb
