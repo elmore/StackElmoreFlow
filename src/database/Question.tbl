@@ -1,0 +1,11 @@
+USE [StackElmoreFlow]
+GO
+
+CREATE TABLE Question
+(
+	QuestionId int IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	Title nvarchar(255) NOT NULL,
+	Body nvarchar(max) NOT NULL
+)
+
+GO

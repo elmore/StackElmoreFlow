@@ -1,0 +1,14 @@
+﻿@model IEnumerable<StackElmoreFlow.Models.Question>
+
+@{
+    ViewBag.Title = "QuestionView";
+}
+
+<h2>QuestionView</h2>
+
+
+<ul>
+@foreach (StackElmoreFlow.Models.Question q in Model) {
+    <li>@q.Title</li>
+}
+</ul>
